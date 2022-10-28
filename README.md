@@ -1,0 +1,3 @@
+Something to help my friend an I with chemistry...
+
+So its not that we struggle to find the elements but I feel like the periodic table is still so vague. Nothing is labeled and with so many numbers in your face you probably forget what is what. Well at least for newbies like Martin and I. So...with the coding skills I have, I am going to attempt to create my own periodic table that is pretty similar the current one but with some stuff to make it better to read. I don't know if I will finish this but I am going to try because why not. Honestly, its just hard finding free time in college. :
